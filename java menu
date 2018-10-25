@@ -1,0 +1,20 @@
+# menu-in-java
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Menu List</title>
+	</head>
+	<body>
+	<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Course</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">MCA</a>
+    <a href="#">BCA</a>
+    <a href="#">BBA</a>
+    <a href="#">MCOM</a>
+    <a href="#">MBA</a>
+    <a href="#">M Tecg</a>
+  </div>
+</div>
+	</body>
+</html>
